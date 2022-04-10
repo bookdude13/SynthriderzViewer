@@ -26,5 +26,5 @@ MonoBehaviour:
   focusAware: 1
   requiresSystemKeyboard: 0
   experimentalFeaturesEnabled: 0
-  insightPassthroughEnabled: 0
-  systemSplashScreen: {fileID: 0}
+  insightPassthroughEnabled: 1
+  systemSplashScreen: {fileID: 2800000, guid: 2364a4161ff8f4249b60b1060ff3ed5a, type: 3}

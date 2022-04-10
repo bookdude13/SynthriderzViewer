@@ -12,6 +12,7 @@ public class DisplayManager : MonoBehaviour
     public TextMeshProUGUI IdText;
     public TextMeshProUGUI OculusIdText;
 
+    private readonly string OculusAppId = "5201906569870252";
     private readonly string displayNameLabel = "Display Name: ";
     private readonly string idLabel = "ID: ";
     private readonly string oculusIdLabel = "Oculus ID: ";
@@ -36,7 +37,7 @@ public class DisplayManager : MonoBehaviour
     {
         try
         {
-            Core.AsyncInitialize("5201906569870252");
+            Core.AsyncInitialize(OculusAppId);
             Entitlements.IsUserEntitledToApplication().OnComplete(OnEntitlementCheckComplete);
         }
         catch (UnityException e)
