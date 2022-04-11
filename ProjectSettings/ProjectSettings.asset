@@ -40,7 +40,7 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos: []
-  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 2364a4161ff8f4249b60b1060ff3ed5a,
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: e6cada24dacbac34f9d5b17ee6831784,
     type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
@@ -137,6 +137,13 @@ PlayerSettings:
     Others: 1
   bundleVersion: 1.0
   preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -281,7 +288,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 2
   AndroidTargetDevices: 1
   AndroidSplashScreenScale: 0
-  androidSplashScreen: {fileID: 2800000, guid: 2364a4161ff8f4249b60b1060ff3ed5a, type: 3}
+  androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{dedicated}: UnityKeystore/synthriderz.keystore'
   AndroidKeyaliasName: production
   AndroidBuildApkPerCpuArchitecture: 0

@@ -257,6 +257,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 185467738}
   m_CullTransparentMesh: 1
+--- !u!1 &223974226 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: 126d619cf4daa52469682f85c1378b4a,
+    type: 3}
+  m_PrefabInstance: {fileID: 970195179}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &223974227
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 223974226}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 72a66d616d8b0574bb9bbf803f558204, type: 2}
 --- !u!1 &332003133
 GameObject:
   m_ObjectHideFlags: 0
