@@ -1,2 +1,2 @@
 # SynthriderzViewer
-Simple viewer for the Synthriderz site while in VR
+View Oculus ID to integrate with synthriderz.com
