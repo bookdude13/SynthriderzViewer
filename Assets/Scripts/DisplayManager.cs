@@ -56,12 +56,11 @@ public class DisplayManager : MonoBehaviour
             SetError("Failed entitlement check: " + result.GetError().Message);
             UnityEngine.Application.Quit(1);
         }
-    }
-
-    private void Start()
-    {
-        Users.GetLoggedInUser().OnComplete(OnGetLoggedInUser);
-        Request.RunCallbacks();
+        else
+        {
+            Users.GetLoggedInUser().OnComplete(OnGetLoggedInUser);
+            Request.RunCallbacks();
+        }
     }
 
     private void SetError(string message)
