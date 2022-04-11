@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Synthriderz
-  productName: SynthriderzViewer
+  productName: Synthriderz
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -169,9 +169,7 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: -917387571571283499, guid: 8f9d5e3211fbf3c4c8544122146a1385, type: 2}
-  - {fileID: -8196854396901781169, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
-  - {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+  - {fileID: 0}
   - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -190,7 +188,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Synthriderz.SynthriderzViewer
+    Android: com.Synthriderz.Synthriderz
     Standalone: com.DefaultCompany.com.unity.template.vr
   buildNumber:
     Standalone: 0
@@ -284,7 +282,7 @@ PlayerSettings:
   AndroidTargetDevices: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 2800000, guid: 2364a4161ff8f4249b60b1060ff3ed5a, type: 3}
-  AndroidKeystoreName: '{dedicated}: UnityKeystore/synthriderz_viewer.keystore'
+  AndroidKeystoreName: '{dedicated}: UnityKeystore/synthriderz.keystore'
   AndroidKeyaliasName: production
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
