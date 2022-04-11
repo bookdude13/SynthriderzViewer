@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2988947528
+CRC: 3629279068
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c55a40dcb254f27b959ff80a4c8be51b
+    Hash: 8ebb0fe6d242378253d3fc5c348238e9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f64856a3d606b613608cbf22df470c60
+    Hash: d82477faa37e43179d0a2ac46d33b510
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,16 +15,25 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/ExampleAssets/Models/XRControllerRight.fbx
-- Assets/ExampleAssets/Models/XRControllerLeft.fbx
-Dependencies: []
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+Dependencies:
+- C:/Users/rfred/Documents/git/SynthriderzViewer/OVRAssetBundles/OVRMasterBundle/asset_mat0
