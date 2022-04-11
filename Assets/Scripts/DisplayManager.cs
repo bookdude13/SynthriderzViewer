@@ -12,7 +12,7 @@ public class DisplayManager : MonoBehaviour
     public TextMeshProUGUI IdText;
     public TextMeshProUGUI OculusIdText;
 
-    private readonly string OculusAppId = "5201906569870252";
+    private readonly string OculusAppId = "3496965523764934";
     private readonly string displayNameLabel = "Display Name: ";
     private readonly string idLabel = "ID: ";
     private readonly string oculusIdLabel = "Oculus ID: ";
