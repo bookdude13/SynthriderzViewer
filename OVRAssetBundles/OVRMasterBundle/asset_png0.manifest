@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3884887692
+CRC: 3965155405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d4eb0deac0a09f725a9b8ca967a536ac
+    Hash: 61774bc9a2838a81b0741b0888fd4a84
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -15,6 +15,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Textures/exit.png
 - Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
-- Assets/Oculus/Interaction/Samples/Textures/OCUIIconSet/OCUI_24_Filled_2x.png
 Dependencies: []

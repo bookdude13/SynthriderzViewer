@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3411180417
+CRC: 2858994462
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,8 +12,8 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: asset_resources
         Dependency_1: asset_mat0
-        Dependency_2: asset_prefab0
-        Dependency_3: asset_png0
+        Dependency_2: asset_png0
+        Dependency_3: asset_prefab0
     Info_2:
       Name: asset_controller0
       Dependencies:
@@ -31,20 +31,20 @@ AssetBundleManifest:
         Dependency_0: asset_tga0
         Dependency_1: asset_png0
     Info_6:
-      Name: asset_shader0
+      Name: asset_png0
       Dependencies: {}
     Info_7:
-      Name: asset_psd0
+      Name: asset_shader0
       Dependencies: {}
     Info_8:
+      Name: asset_psd0
+      Dependencies: {}
+    Info_9:
       Name: asset_prefab0
       Dependencies:
         Dependency_0: asset_controller0
         Dependency_1: asset_fbx0
         Dependency_2: asset_mat0
-    Info_9:
-      Name: asset_png0
-      Dependencies: {}
     Info_10:
       Name: asset_ttf0
       Dependencies: {}

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 584795660
+CRC: 3145725256
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5389a4a26a3f89465589c36cf37142a
+    Hash: 14d9e42443d266bf7d74b79c64af84db
   TypeTreeHash:
     serializedVersion: 2
     Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
@@ -23,6 +23,7 @@ Assets:
 - Assets/ExampleAssets/Materials/Skybox Light.mat
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
 - Assets/Materials/mat-floor.mat
+- Assets/Materials/skybox.mat
 Dependencies:
 - C:/Users/rfred/Documents/git/SynthriderzViewer/OVRAssetBundles/OVRMasterBundle/asset_png0
 - C:/Users/rfred/Documents/git/SynthriderzViewer/OVRAssetBundles/OVRMasterBundle/asset_tga0
